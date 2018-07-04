@@ -1,0 +1,126 @@
+- name: Stout 3.3
+  malts:
+    - 7 lbs. Amber LME
+    - 7 lbs. Light LME
+    - 3 lbs. Dark DME
+    - 6.0 oz. Crystal 30
+    - 8.0 oz. Crystal 60
+    - 4.0 oz. Crystal 120
+    - 14.0 oz. Light roasted barley
+    - 4.2 oz Carafa Special
+    - 5.0 Black barley
+    - 5.0 British black malt
+    - 5.0 Belgian kiln coffee
+    - 10.0 oz. Chocolate malt
+  hops:
+    - 2.0 oz. US Nugget (12.4% AA) @ 60 min.
+    - 2.0 oz. Chinook (11.6% AA) @ 30 min.
+    - 2.0 oz. German Tettnang (3.7% AA) @ 5 min.
+  yeast: Imperial A07 Standard
+  gravities:
+    20180630: 1.150
+- name: Stout 3.2
+  malts:
+    - 7 lbs. Amber LME
+    - 7 lbs. Light LME
+    - 3 lbs. Dark DME
+    - 6.0 oz. Crystal 30
+    - 8.0 oz. Crystal 60
+    - 4.0 oz. Crystal 120
+    - 12.0 oz. Light roasted barley
+    - 4.0 oz Carafa Special
+    - 3.1 Black barley
+    - 5.0 British black malt
+    - 5.0 Belgian kiln coffee
+  hops:
+    - 2.0 oz. US Nugget (12.4% AA) @ 60 min.
+    - 2.0 oz. Chinook (11.6% AA) @ 30 min.
+    - 2.0 oz. German Tettnang (3.7% AA) @ 5 min.
+  yeast: Imperial A07 Flagship
+  gravities:
+    20180623: 1.104
+- name: Stout 3.1
+  malts:
+    - 7 lbs. Light LME
+    - 3 lbs. Golden DME
+    - 12.0 oz. Crystal 30
+    - 16.5 oz. Crystal 60
+    - 8.1 oz. Crystal 120
+    - 8.1 oz. Light roasted barley
+    - 4.1 oz. Black malt
+    - 4.0 oz. Belgian kiln coffee
+  hops:
+    - 2.0 oz. US Nugget (12.4% AA) @ 60 min.
+    - 2.0 oz. Chinook (11.6% AA) @ 30 min.
+    - 2.0 oz. German Tettnang (3.7% AA) @ 5 min.
+  yeast: White Labs WLP001 California Ale Yeast
+  gravities:
+    20180617: 1.126
+    20180629: 1.040
+- name: Comet Pale 1
+  malts:
+    - 6 lbs. Pilsner DME
+    - 0.5 lbs. Crystal 15
+    - 0.25 lbs. Munich
+  hops:
+    - 1.05 oz. Comet (8.7% AA, 4.0% BA) @ 60 min.
+    - 0.3 oz. Comet (8.7% AA, 4.0% BA) @ 15 min.
+    - 0.3 oz. Comet (8.7% AA, 4.0% BA) @ 5 min.
+  yeast: Imperial A15 Independence
+  gravities:
+    20180616: 1.052
+    20180624: 1.010
+- name: Old Ale 3
+  malts:
+    - 14 lbs. Light LME
+    - 3 lbs. Golden DME
+    - 2.0 Cup Dextrose
+    - 34.1 oz. Crystal 15°
+    - 12.6 oz. Crystal 30°
+    - 20.2 oz. Crystal 60°
+    - 8 oz. Crystal 120°
+    - 4.2 oz. Black patent
+  hops:
+    - 2.0 oz. German Northern Brewer (9.3% AA) @ 60 min.
+    - 1.0 oz Cascade (7.3% AA) @ 60 min.
+    - 1.0 oz. UK Fuggle (4.4% AA) @ 30 min.
+    - 1.0 oz. UK Fuggle (4.4% AA) @ 15 min.
+  yeast: Imperial A10 Darkness
+  gravities:
+    20180610: 1.102
+    20180617: 1.035
+    20180624: 1.036
+- name: Old Ale 2
+  malts:
+    - 10 lbs. Amber LME
+    - 7 lbs. Light LME
+    - 34 oz. Crystal 15°
+    - 12 oz. Crystal 30°
+    - 20 oz. Crystal 60°
+    - 8 oz. Crystal 120°
+    - 4 oz. Black patent
+  hops:
+    - 2.25 oz. German Northern Brewer (9.3% AA) @ 60 min.
+    - 1.0 oz. Fuggle (5.0% AA, 2.8% BA) @ 30 min.
+    - 1.0 oz. Fuggle (5.0% AA, 2.8% BA) @ 15 min.
+  yeast: Imperial A07 Standard
+  gravities:
+    20180428: 1.110
+    20180511: 1.032
+    20180521: 1.032
+- name: Old Ale 1
+  malts:
+    - 7 lbs. Amber LME
+    - 7 lbs. Light LME
+    - 32 oz. Crystal 15°
+    - 20 oz. Crystal 60°
+    - 8 oz. Crystal 120°
+    - 4 oz. Black patent
+  hops:
+    - 2.25 oz. German Northern Brewer (9.3% AA) @ 60 min.
+    - 1.0 oz. Fuggle (5.0% AA, 2.8% BA) @ 30 min.
+    - 1.0 oz. Fuggle (5.0% AA, 2.8% BA) @ 15 min.
+  yeast: Imperial A01 House
+  gravities:
+    20180408: 1.089
+    20180427: 1.022

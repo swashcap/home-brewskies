@@ -1,0 +1,30 @@
+{
+  "name": "home-brewskies-api",
+  "version": "1.0.0",
+  "description": "API server for home-brewskies",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "start": "node index.js",
+    "test": "NODE_ENV=test node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/swashcap/home-brewskies.git"
+  },
+  "author": "Cory Reed <swashcap@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swashcap/home-brewskies/issues"
+  },
+  "homepage": "https://github.com/swashcap/home-brewskies#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "js-yaml": "^3.12.0",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1",
+    "supertest": "^3.1.0"
+  }
+}
